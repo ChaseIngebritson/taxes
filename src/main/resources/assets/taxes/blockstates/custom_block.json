@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "taxes:block/custom_block" }
+  }
+}
